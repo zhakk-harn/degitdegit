@@ -6,7 +6,7 @@
 
 ### Why ?
 
-If, for some odd reason, you need to use degit to programmatically get stuff from github and you want to use degit but you can't count on git being the your users machines then you can use degitdegit which relies on isomorphic-git (which makes it heavier obviously)
+If, for some odd reason, you need to use degit to programmatically get stuff from github and you want to use degit but you can't count on git being installed on your users machines then you can use degitdegit which relies on isomorphic-git (which makes it heavier obviously)
 
 ---
 
