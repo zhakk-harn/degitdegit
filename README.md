@@ -1,4 +1,4 @@
-> Expect this project to have worse maintainance than [degit](https://github.com/Rich-Harris/degit) or [tiged](https://github.com/tiged/tiged)(which is going to be used as upstream)
+> Expect this project to have worse maintainance than [degit](https://github.com/Rich-Harris/degit) or [tiged](https://github.com/tiged/tiged)
 
 # a smidge more "de-gited" degit
 
